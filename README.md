@@ -1,0 +1,2 @@
+# DL_forFinance
+This git repository is based on the work of J.Heaton, N.Polson and J.Witte and their articleDeep Learning for Finance: Deep Portfolios.  This paper let us explore the use of deeplearning  models  for  problems  in  financial  prediction  and  classification.   Our  goal  isto  show  how  applying  deep  learning  methods  to  these  problems  can  produce  betteroutcomes than standard methods in finance or in Machine Learning
