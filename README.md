@@ -12,6 +12,7 @@ We included in our github repository the following files:
 2. **IBB-Data-Extraction.ipynb**: a jupyter notebook to automatically gather the data using Yahoo Finance API
 3. **IBB-Replication.ipynb**: a jupyter notebook explaining step by step the Deep Learning method we used to replicate the IBB
 4. **Deep Learning for Finance - Deep Portfolio.pdf**: a paper presenting the results obtained during the semester
+5. **DeepLearning_presentation.pdf**: presentation we made in front of the class
 
 
 
