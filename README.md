@@ -1,8 +1,8 @@
 # Deep Learning for Finance - Deep Portfolio
 
-#### Made by 
+#### Written by 
 T.Becker, M.Bergerot, P.de Kerdrel, A.Mascia, N.Tachet
-##### Supervised by 
+#### Under the supervision of 
 **Professor**:  Ali Hirsa
 **Teacher Assistant**:  Francois Fagan
 
