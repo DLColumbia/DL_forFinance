@@ -1,11 +1,5 @@
 # Deep Learning for Finance - Deep Portfolio
 
-#### Written by 
-T.Becker, M.Bergerot, P.de Kerdrel, A.Mascia, N.Tachet
-#### Under the supervision of 
-**Professor**:  Ali Hirsa
-**Teacher Assistant**:  Francois Fagan
-
 This git repository is based on the work of J.Heaton, N.Polson and J.Witte and their articleDeep Learning for Finance: Deep Portfolios.  This paper let us explore the use of deeplearning  models  for  problems  in  financial  prediction  and  classification.   Our  goal  is to  show  how  applying  deep  learning  methods  to  these  problems  can  produce  betteroutcomes than standard methods in finance or in Machine Learning
 
 This work has been supervised by Professor Ali Hirsa and Teacher Assistant Francois Fagan during the Spring of 2018 at Columbia SEAS (IEORE4720).
@@ -19,3 +13,10 @@ We included in our github repository the following files:
 3. **IBB-Replication.ipynb**: a jupyter notebook explaining step by step the Deep Learning method we used to replicate the IBB
 4. **Deep Learning for Finance - Deep Portfolio.pdf**: a paper presenting the results obtained during the semester
 
+
+
+#### Written by 
+T.Becker, M.Bergerot, P.de Kerdrel, A.Mascia, N.Tachet
+#### Under the supervision of 
+**Professor**:  Ali Hirsa
+**Teacher Assistant**:  Francois Fagan
