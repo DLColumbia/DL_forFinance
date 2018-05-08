@@ -7,8 +7,8 @@ In this repository, we only present the code related to our work with the IBB in
 
 ## What is included in this repos ?
 We included in our github repository the following files:
-1. IBB_holdings.csv: a csv file containing the list of tickers for the IBB index
-2. IBB-Data-Extraction.ipynb: a jupyter notebook to automatically gather the data using Yahoo Finance API
-3. IBB-Replication.ipynb: a jupyter notebook explaining step by step the Deep Learning method we used to replicate the IBB
-4. Deep Learning for Finance - Deep Portfolio.pdf: a paper presenting the results obtained during the semester
+1. **IBB_holdings.csv**: a csv file containing the list of tickers for the IBB index
+2. **IBB-Data-Extraction.ipynb**: a jupyter notebook to automatically gather the data using Yahoo Finance API
+3. **IBB-Replication.ipynb**: a jupyter notebook explaining step by step the Deep Learning method we used to replicate the IBB
+4. **Deep Learning for Finance - Deep Portfolio.pdf**: a paper presenting the results obtained during the semester
 
