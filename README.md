@@ -12,6 +12,7 @@ We included in our github repository the following files:
 4. **Deep Learning for Finance - Deep Portfolio.pdf**: a paper presenting the results obtained during the semester
 5. **DeepLearning_presentation.pdf**: presentation we made in front of the class
 6. **Backtest_Quantopian.py**: Backtest of our strategy on S&P and IBB (Precaution: do not try to run it. It will only work on Quantopian: cut and paste the code on an empty Quantopian algorithm.
+7. **Machine Learnin Approach - SP.zip**: a folder containing our code for the Machine Learning technique discussed in the conclusion of our executive summary
 
 
 
